@@ -1,11 +1,11 @@
-Open Source Satellite Initiative Eagle CAD Library
+Open Source Satellite Initiative CricketSat Eagle files
 http://opensat.cc
 
 We used Eagle CAD 6.0 to design the board. Please, download one from:
 http://www.cadsoftusa.com/downloads/
 
 
-==== Update Needed 17 Jan 2012 ====
+==== Updates Needed 17 Jan 2012 ====
 1. This version is working version, but need to be updated.
 2. Make the board size bigger
 3. Make the test point to thru hole for easy debugging
